@@ -10,7 +10,7 @@ redirect_from:
 
 Currently I am a first-year PhD student in the Department of Aeronautics and Astronautics, School of Engineering, [The University of Tokyo](https://www.u-tokyo.ac.jp/ja/index.html). Before that, I received my B.Eng degree and M.Eng degree in the College of Civil Aviation in June 2020 and April 2023 respectly from [Nanjing University of Aeronautics and Astronautics](https://ciee.studyatnuaa.org/). My research interest includes air traffic management,aviation big data. The methodologies I utilized come from but not limited to optimization, machine learning, and mechanism design.
 
-I am very fortunate to be advised by [Prof. Eri Itoh](https://www.t.u-tokyo.ac.jp/topics/tp2022-05-20-059) of TSUCHIYA·ITOH Lab from the [Department of Aeronautics and Astronautics](https://www.flight.t.u-tokyo.ac.jp/), The University of Tokyo.
+I am very fortunate to be advised by [Prof. Eri Itoh](https://www.t.u-tokyo.ac.jp/topics/tp2022-05-20-059) of [Aerospace Mobility Lab](https://sites.google.com/g.ecc.u-tokyo.ac.jp/itoh-laboratory/) from the [Department of Aeronautics and Astronautics](https://www.flight.t.u-tokyo.ac.jp/), The University of Tokyo.
 
 You can find my CV here:[Wenhao Ding's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
