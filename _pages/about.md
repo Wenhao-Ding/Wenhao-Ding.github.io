@@ -18,6 +18,7 @@ Research Interests
 * Air Transport Management
 * Distributionally Robust Optimization
 * Aviation data mining
+
 my research interests lie in avation data mining and optimization problems in the field of air transportation. Three particular questions are
 1. How to adapt 
 1. How to utilize
