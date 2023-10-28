@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Wenhao Ding - Homepage"
 title_separator          : "-"
 name                     : &name "Wenhao Ding"
-description              : &description "a Ph.D. student from the University of Tokyo"
+description              : &description "a Ph.D. student at the University of Tokyo"
 url                      : https://Wenhao-Ding.github.io/wenhaoding.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "wenhaoding.github.io"
@@ -82,7 +82,11 @@ analytics:
 author:
   name             : "Wenhao Ding"
   avatar           : "Ding.png"
-  bio              : "Ph.D. student  Department of Aeronautics and Astronautics  University of Tokyo    4-6-1 Komaba  Meguro-ku, Tokyo, Japan"
+  bio              : "Ph.D. student  
+                      Department of Aeronautics and Astronautics  
+                      The University of Tokyo    
+                      4-6-1 Komaba  
+                      Meguro-ku, Tokyo, Japan"
   location         : "Tokyo, Japan"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
