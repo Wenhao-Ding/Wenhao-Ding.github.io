@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.Eng. in Engineering (Air Transportation ), Nanjing University of Aeronautics and Astronautics, 2020
-* M.S. in Engineering (Transportation), Nanjing University of Aeronautics and Astronautics, 2023
-* Ph.D in Aerospace Engineering, The University of Tokyo, 2026 (expected)
+* B.Eng. in Engineering (Air Transportation ), [Nanjing University of Aeronautics and Astronautics](http://cca.nuaa.edu.cn/), 2020
+* M.S. in Engineering (Transportation), [Nanjing University of Aeronautics and Astronautics](http://cca.nuaa.edu.cn/), 2023
+* Ph.D in Aerospace Engineering, [The University of Tokyo](https://www.rcast.u-tokyo.ac.jp/en/index.html), 2026 (expected)
 
 Work experience
 ======
