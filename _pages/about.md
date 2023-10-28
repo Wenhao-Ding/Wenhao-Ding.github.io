@@ -8,18 +8,19 @@ redirect_from:
   - /about.html
 ---
 
-Currently I am a first-year Ph.D. student in the Department of Aeronautics and Astronautics, School of Engineering, [The University of Tokyo](https://www.u-tokyo.ac.jp/ja/index.html). Before that, I received my B.Eng degree and M.S. degree in the College of Civil Aviation in June 2020 and April 2023 respectly from [Nanjing University of Aeronautics and Astronautics](https://ciee.studyatnuaa.org/). My research interest includes air traffic management,aviation big data. The methodologies I utilized come from but not limited to optimization, machine learning, and mechanism design.
+Currently I am a first-year Ph.D. student in the Department of Aeronautics and Astronautics, School of Engineering at [The University of Tokyo](https://www.u-tokyo.ac.jp/ja/index.html). Before that, I received my B.Eng degree and M.S. degree in the College of Civil Aviation in June 2020 and April 2023 respectively from [Nanjing University of Aeronautics and Astronautics](https://ciee.studyatnuaa.org/). My research interests include air traffic management, aviation big data, and spatiotemporal modeling. The methodologies I utilized come from, but are not limited to, network optimization, machine learning, and mechanism design.
 
-I am now advised by [Prof. Eri Itoh](https://www.t.u-tokyo.ac.jp/topics/tp2022-05-20-059) of [Aerospace Mobility Lab](https://sites.google.com/g.ecc.u-tokyo.ac.jp/itoh-laboratory/) from the [Department of Aeronautics and Astronautics](https://www.flight.t.u-tokyo.ac.jp/), The University of Tokyo. You can find my CV by clicking [here](../assets/Curriculum_Vitae.pdf). If you want to know more about me, please feel free to [contact me](mailto:WenhaoDing@nuaa.edu.cn).
+I am now advised by [Prof. Eri Itoh](https://www.t.u-tokyo.ac.jp/topics/tp2022-05-20-059) of [Aerospace Mobility Lab](https://sites.google.com/g.ecc.u-tokyo.ac.jp/itoh-laboratory/) from the [Department of Aeronautics and Astronautics](https://www.flight.t.u-tokyo.ac.jp/), The University of Tokyo. You can find my CV by clicking [here](../assets/Curriculum_Vitae.pdf). If you want to know more about me, please feel free to [contact me](mailto:wenhaoding@g.ecc.u-tokyo.ac.jp).
 
 Research Interests
 ======
 * Optimization under uncertainty
+* Network modelling
 * Air Transport Management
 * Distributionally Robust Optimization
 * Aviation data mining
 
-my research interests lie in avation data mining and optimization problems in the field of air transportation. Three particular questions are
+My research interests lie in avation data mining and optimization problems in the field of air transportation. Three particular questions are
 1. How to adapt 
 1. How to utilize
 1. How physical traffic flow models can be integrated with deep learning.
