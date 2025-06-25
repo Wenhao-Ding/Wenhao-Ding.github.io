@@ -7,13 +7,15 @@ redirect_from:
   - /resume
 ---
 
+* [CV in PDF](../assets/Curriculum_Vitae.pdf)
+
 {% include base_path %}
 
 Education
 ======
-* B.Eng. in Engineering (Air Transportation ), [Nanjing University of Aeronautics and Astronautics](http://cca.nuaa.edu.cn/), 2020
-* M.S. in Engineering (Transportation), [Nanjing University of Aeronautics and Astronautics](http://cca.nuaa.edu.cn/), 2023
-* Ph.D in Aerospace Engineering, [The University of Tokyo](https://www.rcast.u-tokyo.ac.jp/en/index.html), 2026 (expected)
+* B.Eng. in Transportation Engineering, [Nanjing University of Aeronautics and Astronautics](http://cca.nuaa.edu.cn/), 2020
+* M.S. in Transportation Engineering, [Nanjing University of Aeronautics and Astronautics](http://cca.nuaa.edu.cn/), 2023
+* Ph.D. in Aerospace Engineering, [University of Tokyo](https://www.rcast.u-tokyo.ac.jp/en/index.html), 2026 (expected)
 
 Work experience
 ======
@@ -29,37 +31,6 @@ Work experience
   
 Skills
 ======
-* Programming
-  * Python
-  * R
-  * Java
-  * Latex
-* Optimization Solver
-  * Gurobi
-  * COPT
-* Language
-  * Mandarin
-  * English
-  * Japanese
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Programming: Python, R, Java, LaTex
+* Optimization Solver: Gurobi
+* Language: Chinese (Mandarin), English, Japanese

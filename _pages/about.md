@@ -8,16 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-Currently I am a first-year Ph.D. student in the Department of Aeronautics and Astronautics, School of Engineering at [The University of Tokyo](https://www.u-tokyo.ac.jp/ja/index.html). Before that, I received my B.Eng degree and M.S. degree in the College of Civil Aviation in June 2020 and April 2023 respectively from [Nanjing University of Aeronautics and Astronautics](https://ciee.studyatnuaa.org/). My research interests include air traffic management, aviation big data, and spatiotemporal modeling. The methodologies I utilized come from, but are not limited to, network optimization, machine learning, and mechanism design.
+I am now a second-year Ph.D. student at the Department of Aeronautics and Astronautics, School of Engineering, University of Tokyo \([UTokyo](https://www.aerospace.t.u-tokyo.ac.jp/en/)\). Before that, I received my B.Eng. and M.S. degrees in Transportation Engineering from Nanjing University of Aeronautics and Astronautics \([NUAA](https://www.nuaa.edu.cn/)\) in 2020 and 2023, respectively. 
 
-I am now advised by [Prof. Eri Itoh](https://www.t.u-tokyo.ac.jp/topics/tp2022-05-20-059) of [Aerospace Mobility Lab](https://sites.google.com/g.ecc.u-tokyo.ac.jp/itoh-laboratory/) from the [Department of Aeronautics and Astronautics](https://www.flight.t.u-tokyo.ac.jp/), The University of Tokyo. You can find my CV by clicking [here](../assets/Curriculum_Vitae.pdf). If you want to know more about me, please feel free to [contact me](mailto:wenhaoding@g.ecc.u-tokyo.ac.jp).
+My research interests focus on **Air Transportation Network Planning** and **Air Traffic Management**. The methodologies I employ include but are not limited to network science, distributionally robust optimization (DRO), and stochastic programming (SP).
+
+I am now advised by [Prof. Eri Itoh](https://www.u-tokyo.ac.jp/focus/en/people/k0001_02908.html) at [Aerospace Mobility Lab](https://sites.google.com/g.ecc.u-tokyo.ac.jp/itoh-laboratory/). You can find my CV by clicking [here](../assets/Curriculum_Vitae.pdf). If you want to know more about me, please feel free to [contact me](mailto:wenhaoding@g.ecc.u-tokyo.ac.jp).
 
 Research Interests
 ======
 * Optimization under uncertainty
 * Network modelling
 * Air Transport Management
-* Distributionally Robust Optimization
 * Aviation data mining
 
 My research interests lie in avation data mining and optimization problems in the field of air transportation. Three particular questions are
@@ -25,13 +26,10 @@ My research interests lie in avation data mining and optimization problems in th
 1. How to utilize
 1. How physical traffic flow models can be integrated with deep learning.
 
-Publication
-======
-**Journal**
+## News
 
-* Xu M., Hu M., Zhou Y., Ding W., and Wu Q. (2022). Multi-Aircraft Cooperative Strategic Trajectory-Planning Method Considering Wind Forecast Uncertainty. Sustainability, 2022, 14(17): 10811.
+- **[2025-06]** Our paper “Flight connection planning for low-cost carriers under passenger demand uncertainty” has been published in *Aerospace*!
 
-**Conference**
+- **[2025-05]** Our paper “A Data-Driven Framework for Critical Node Identification in Air Traffic Networks” has been accepted by the **44th IEEE/AIAA Digital Avionics Systems Conference (DASC)**. I will give an oral presentation at the conference in **Montreal, Canada** this September！
 
-* Ding W., Hu M., Su J., and Xu M. (2021). Multi-objective Flight Schedule Optimization Based on Improved Evolutionary Algorithm[C]//ISCTT 2021; 6th International Conference on Information Science, Computer Technology and Transportation.
-* Ding W., Hu M., Su J., and Liu C. (2022). Research on the Classification Characteristics of Chinese Airports from the Perspective of Network[C]//FTTE 2022; International Conference on Frontiers of Traffic and Transportation Engineering. 
+- **[2024-03]** Our paper “Developing a Framework to Identify Structural Characteristics of the Air Traffic Network” has been accepted by the **27th Air Transport Research Society (ATRS) World Conference**. I will give an oral presentation at the conference in **Lisbon, Portugal** this July！
