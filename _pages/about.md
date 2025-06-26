@@ -16,15 +16,16 @@ I am now advised by [Prof. Eri Itoh](https://www.u-tokyo.ac.jp/focus/en/people/k
 
 Research Interests
 ======
-* Optimization under uncertainty
-* Network modelling
-* Air Transport Management
-* Aviation data mining
+My research interests lie in the intersection of network science and optimization for air transportation systems. Specifically, I explore the following three areas:
 
-My research interests lie in avation data mining and optimization problems in the field of air transportation. Three particular questions are
-1. How to adapt 
-1. How to utilize
-1. How physical traffic flow models can be integrated with deep learning.
+* **Optimization under Uncertainty in Air Traffic Management：** 
+Designing robust and adaptive optimization frameworks to manage air traffic flows amid uncertain operational conditions. This includes applying distributionally robust optimization and stochastic programming techniques to schedule flights, allocate capacity, and mitigate congestion at critical airspace hotspots.
+
+* **Network Analytics for Air Transportation Systems：** 
+Modeling and analyzing the structure and dynamics of air transportation networks using tools from complex network science. My recent work includes high-order network modeling based on passenger itineraries, identifying functionally critical hubs in air transport networks, and evaluating system resilience under disruptions.
+
+* **Airline Network Planning and Resilience Design:** 
+Developing data-driven models for airline route planning, connection design, and system-wide resilience evaluation. Recent research includes optimizing connecting flights under uncertain demand, and assessing the trade-off between network efficiency and redundancy.
 
 ## News
 
