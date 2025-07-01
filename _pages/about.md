@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am now a second-year Ph.D. student at the Department of Aeronautics and Astronautics, School of Engineering, University of Tokyo \([UTokyo](https://www.aerospace.t.u-tokyo.ac.jp/en/)\). Before that, I received my B.Eng. and M.S. degrees in Transportation Engineering from Nanjing University of Aeronautics and Astronautics \([NUAA](https://www.nuaa.edu.cn/)\) in 2020 and 2023, respectively. 
+I am now a second-year Ph.D. student at the Department of Aeronautics and Astronautics, School of Engineering, University of Tokyo \([UTokyo](https://www.aerospace.t.u-tokyo.ac.jp/en/)\). Before that, I received my B.Eng. and M.S. degrees in Transportation Engineering from Nanjing University of Aeronautics and Astronautics \([NUAA](https://en.nuaa.edu.cn/)\) in 2020 and 2023, respectively. 
 
 My research interests focus on **Air Transportation Network Planning** and **Air Traffic Management**. The methodologies I employ include but are not limited to network science, distributionally robust optimization (DRO), and stochastic programming (SP).
 
