@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-You can also find my articles on my [Google Scholar profile](https://scholar.google.com/citations?user=zRJMz-kAAAAJ&hl=en&oi=sra).
+You can also find my articles on my [Google Scholar profile](https://scholar.google.com.hk/citations?hl=zh-CN&user=YzMMhv4AAAAJ).
 
 Note: “*” indicates corresponding authorship, and “†” indicates co-first authorship.
 

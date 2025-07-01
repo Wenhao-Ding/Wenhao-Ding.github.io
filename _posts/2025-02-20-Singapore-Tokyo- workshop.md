@@ -26,7 +26,7 @@ It was a valuable opportunity to engage with leading scholars in the field, lear
   </div>
 
   <div style="text-align: center;">
-    <img src="/images/NTU_1.jpg" alt="Presentation session" style="height: 400px; object-fit: cover;">
+    <img src="/images/NTU.jpg" alt="Presentation session" style="height: 400px; object-fit: cover;">
     <div style="font-size: 0.9em; color: gray; margin-top: 0.5em;">Presenting on improving airline network connectivity</div>
   </div>
 
