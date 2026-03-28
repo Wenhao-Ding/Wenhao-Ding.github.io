@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am now a second-year Ph.D. student at the Department of Aeronautics and Astronautics, School of Engineering, University of Tokyo \([UTokyo](https://www.aerospace.t.u-tokyo.ac.jp/en/)\). Before that, I received my B.Eng. and M.S. degrees in Transportation Engineering from Nanjing University of Aeronautics and Astronautics \([NUAA](https://en.nuaa.edu.cn/)\) in 2020 and 2023, respectively. 
+I am now a third-year Ph.D. candidate at the Department of Aeronautics and Astronautics, School of Engineering, University of Tokyo \([UTokyo](https://www.aerospace.t.u-tokyo.ac.jp/en/)\). Before that, I received my B.Eng. and M.S. degrees in Transportation Engineering from Nanjing University of Aeronautics and Astronautics \([NUAA](https://en.nuaa.edu.cn/)\) in 2020 and 2023, respectively. 
 
 My research interests focus on **Air Transportation Network Planning** and **Air Traffic Management**. The methodologies I employ include but are not limited to network science, distributionally robust optimization (DRO), and stochastic programming (SP).
 
@@ -29,8 +29,12 @@ Developing data-driven models for airline route planning, connection design, and
 
 ## News
 
-- **[2025-06]** Our paper “Flight connection planning for low-cost carriers under passenger demand uncertainty” has been published in *Aerospace*!
+- **[2026-03]** Our paper "Revealing the functional roles of global airports through passenger flow: A higher-order network perspective" has been published in **Journal of Transport Geography**!
 
-- **[2025-05]** Our paper “A Data-Driven Framework for Critical Node Identification in Air Traffic Networks” has been accepted by the **44th IEEE/AIAA Digital Avionics Systems Conference (DASC)**. I will give an oral presentation at the conference in **Montreal, Canada** this September！
+- **[2025-10]** Presented our research "A Higher-Order Network Approach to Unveiling Airport Roles Based on Passenger Path Dependencies" at *the 16th Asia-Pacific International Symposium on Aerospace Technology (APISAT 2025)* in **Seoul, South Korea**.
 
-- **[2024-03]** Our paper “Developing a Framework to Identify Structural Characteristics of the Air Traffic Network” has been accepted by the **27th Air Transport Research Society (ATRS) World Conference**. I will give an oral presentation at the conference in **Lisbon, Portugal** this July！
+- **[2025-09]** Presented our paper “A Data-Driven Framework for Critical Node Identification in Air Traffic Networks” at the *44th IEEE/AIAA Digital Avionics Systems Conference (DASC)* in **Montreal, Canada**.
+
+- **[2025-06]** Our paper “Flight connection planning for low-cost carriers under passenger demand uncertainty” has been published in **Aerospace**!
+
+- **[2024-03]** Our paper “Developing a Framework to Identify Structural Characteristics of the Air Traffic Network” has been accepted by the *27th Air Transport Research Society (ATRS) World Conference*. I will give an oral presentation at the conference in **Lisbon, Portugal** this July！
