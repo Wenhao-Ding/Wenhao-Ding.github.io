@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Wenhao Ding"
 title_separator          : "-"
 name                     : &name "Wenhao Ding"
-description              : &description "a Ph.D. student at the University of Tokyo"
+description              : &description "a research fellow at The University of Tokyo"
 url                      : https://wenhao-ding.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "wenhao-ding/wenhao-ding.github.io"
@@ -81,10 +81,10 @@ analytics:
 # Site Author
 author:
   name             : "Wenhao Ding"
-  avatar           : "Ding.png"
-  bio              : "Ph.D. student <br>
-                      Department of Aeronautics and Astronautics <br>
-                      University of Tokyo <br> 
+  avatar           : "Ding.jpg"
+  bio              : "Project researcher @ <br>
+                      Research Center for Advanced Science and Technology <br>
+                      The University of Tokyo <br> 
                       4-6-1 Komaba  
                       Meguro-ku, Tokyo, Japan"
   location         : "Tokyo, Japan"

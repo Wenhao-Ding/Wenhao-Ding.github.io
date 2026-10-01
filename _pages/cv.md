@@ -15,11 +15,11 @@ Education
 ======
 * B.Eng. in Transportation Engineering, [Nanjing University of Aeronautics and Astronautics](http://cca.nuaa.edu.cn/), 2020
 * M.S. in Transportation Engineering, [Nanjing University of Aeronautics and Astronautics](http://cca.nuaa.edu.cn/), 2023
-* Ph.D. in Aerospace Engineering, [University of Tokyo](https://www.rcast.u-tokyo.ac.jp/en/index.html), 2026 (expected)
+* Ph.D. in Aerospace Engineering, [The University of Tokyo](https://www.rcast.u-tokyo.ac.jp/en/index.html), 2026
 
 Work experience
 ======
-* Summer 2019: Intern at Xiamen Airlines' Operations Control Center 
+* 2026.10 - : Project Researcher
   
 Skills
 ======

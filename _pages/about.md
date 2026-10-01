@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am now a research fellow at the Research Center for Advanced Science and Technology, The University of Tokyo \([UTokyo](https://www.aerospace.t.u-tokyo.ac.jp/en/)\). Before that, I obtained my Ph.D. degree from The University of Tokyo, supervised by [Prof. Eri Itoh](https://www.u-tokyo.ac.jp/focus/en/people/k0001_02908.html). I received my B.Eng. and M.S. degrees in Transportation Engineering from Nanjing University of Aeronautics and Astronautics \([NUAA](https://en.nuaa.edu.cn/)\) in 2020 and 2023, respectively. 
+I am now a project researcher at the Research Center for Advanced Science and Technology, The University of Tokyo \([UTokyo](https://www.aerospace.t.u-tokyo.ac.jp/en/)\). Before that, I obtained my Ph.D. degree from The University of Tokyo, supervised by [Prof. Eri Itoh](https://www.u-tokyo.ac.jp/focus/en/people/k0001_02908.html). I received my B.Eng. and M.S. degrees in Transportation Engineering from Nanjing University of Aeronautics and Astronautics \([NUAA](https://en.nuaa.edu.cn/)\) in 2020 and 2023, respectively. 
 
 My research interests focus on **Air Transportation Network Planning** and **Air Traffic Management**. The methodologies I employ include but are not limited to network science, distributionally robust optimization (DRO), and stochastic programming (SP).
 
@@ -28,6 +28,8 @@ Modeling and analyzing the structure and dynamics of air transportation networks
 Developing data-driven models for airline route planning, connection design, and system-wide resilience evaluation. Recent research includes optimizing connecting flights under uncertain demand, and assessing the trade-off between network efficiency and redundancy.
 
 ## News
+
+- **[2026-06]** Presented our research "Epidemic Spreading on Higher-order Transport Networks" at *the Complex Adaptive Systems Conference 2026 (CAS 2026)* in **Tokyo, Japan**.
 
 - **[2026-03]** Our paper "Revealing the functional roles of global airports through passenger flow: A higher-order network perspective" has been published in **Journal of Transport Geography**!
 
