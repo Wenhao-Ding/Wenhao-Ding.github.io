@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am now a third-year Ph.D. candidate at the Department of Aeronautics and Astronautics, School of Engineering, University of Tokyo \([UTokyo](https://www.aerospace.t.u-tokyo.ac.jp/en/)\). Before that, I received my B.Eng. and M.S. degrees in Transportation Engineering from Nanjing University of Aeronautics and Astronautics \([NUAA](https://en.nuaa.edu.cn/)\) in 2020 and 2023, respectively. 
+I am now a research fellow at the Research Center for Advanced Science and Technology, The University of Tokyo \([UTokyo](https://www.aerospace.t.u-tokyo.ac.jp/en/)\). Before that, I obtained my Ph.D. degree from The University of Tokyo, supervised by [Prof. Eri Itoh](https://www.u-tokyo.ac.jp/focus/en/people/k0001_02908.html). I received my B.Eng. and M.S. degrees in Transportation Engineering from Nanjing University of Aeronautics and Astronautics \([NUAA](https://en.nuaa.edu.cn/)\) in 2020 and 2023, respectively. 
 
 My research interests focus on **Air Transportation Network Planning** and **Air Traffic Management**. The methodologies I employ include but are not limited to network science, distributionally robust optimization (DRO), and stochastic programming (SP).
 
-I am now advised by [Prof. Eri Itoh](https://www.u-tokyo.ac.jp/focus/en/people/k0001_02908.html) at [Aerospace Mobility Lab](https://sites.google.com/g.ecc.u-tokyo.ac.jp/itoh-laboratory/). You can find my CV by clicking [here](../assets/Curriculum_Vitae.pdf). If you want to know more about me, please feel free to [contact me](mailto:wenhaoding@g.ecc.u-tokyo.ac.jp).
+I am now at [Aerospace Mobility Lab](https://sites.google.com/g.ecc.u-tokyo.ac.jp/itoh-laboratory/). You can find my CV by clicking [here](../assets/Curriculum_Vitae.pdf). If you want to know more about me, please feel free to [contact me](mailto:wenhaoding@g.ecc.u-tokyo.ac.jp).
 
 Research Interests
 ======
