@@ -83,14 +83,11 @@ author:
   name             : "Wenhao Ding"
   avatar           : "Ding.jpg"
   bio              : "Project researcher @ <br>
-                      Research Center for Advanced Science and Technology <br>
-                      The University of Tokyo <br> 
-                      4-6-1 Komaba  
-                      Meguro-ku, Tokyo, Japan"
+                      The University of Tokyo"
   location         : "Tokyo, Japan"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=YzMMhv4AAAAJ&hl=en"
   email            : "wenhaoding@g.ecc.u-tokyo.ac.jp"
   researchgate     : "https://www.researchgate.net/profile/Wenhao-Ding-6"
   uri              :
